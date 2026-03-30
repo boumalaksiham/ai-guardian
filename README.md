@@ -1,6 +1,6 @@
 #  AI Guardian — LLM Observability & Cost Intelligence Platform
 
-> **Production-grade monitoring infrastructure for AI systems** — built to give engineering teams full visibility into every LLM interaction: latency, token usage, cost, quality scoring, hallucination detection, and real-time alerting.
+> **It is the control tower for AI systems** — turning raw LLM interactions into actionable intelligence: latency, token usage, cost, quality scoring, hallucination detection, and real-time alerting.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?style=flat-square&logo=fastapi)
@@ -27,8 +27,6 @@ But in production, that is not enough.
 - Which model version performs better?
 - Which feature is draining the budget?
 - Did a prompt change make things worse?
-
-It is the **control tower for AI systems** — turning raw LLM interactions into actionable intelligence.
 
 ---
 
@@ -290,7 +288,7 @@ curl -X POST http://127.0.0.1:8000/api/events/ \
 M.S. Artificial Intelligence — Northeastern University, Khoury College of Computer Sciences
 Concentration: Machine Learning | Expected 2027
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](linkedin.com/in/siham-boumalak-11014b210)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/siham-boumalak-11014b210)
 [![GitHub](https://img.shields.io/badge/GitHub-boumalaksiham-181717?style=flat-square&logo=github)](https://github.com/boumalaksiham)
 
 ---
